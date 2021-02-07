@@ -1,0 +1,15 @@
+.region {
+    background-image: url(circles.svg);
+    background-size: 261px 354px;
+    width: 261px;
+    height: 354px;
+}
+
+svg {
+    width: 300px;
+    height: 300px;
+}
+
+.circle1 {
+    fill: pink;
+}
